@@ -1,0 +1,14 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+ipywidgets
+ipykernel
+jupytext
+
+openai
+python-dotenv
+redlines
+panel
+jupyter_bokeh
